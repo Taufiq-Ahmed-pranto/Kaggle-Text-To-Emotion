@@ -1,4 +1,4 @@
-#Part of the course - Natural Language Processing & Text Mining
+Part of the course - Natural Language Processing & Text Mining
 
 Project 1 Bis. Kaggle Text to Emotion Dataset 1 Consider the dataset in https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text/data?select=tweet_emotions.csv where 40K records Twitter dataset are classified into 13 categories: neutral, worry, happiness, sadness, love, surprise, fun sentiment, relief, hate, empty, enthusiasm, boredom, anger.
 
